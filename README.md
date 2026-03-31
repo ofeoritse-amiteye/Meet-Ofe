@@ -13,7 +13,7 @@
 
 ## 👨🏾‍💻 About Me
 
-Hi, I'm **Amiteye Ofeoritse** — a frontend-leaning software developer with full-stack capability.
+Hi, I'm **Amiteye Ofeoritse**, a frontend-leaning software developer with full-stack capability.
 
 I focus on building **real, functional systems** with clean user experiences, not just demo projects.
 Every project I touch is built with deployment, usability, and real users in mind.
