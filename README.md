@@ -93,20 +93,7 @@ Every project I touch is built with deployment, usability, and real users in min
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ofeoritse-amiteye&&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofeoritse-amiteye&E&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
-
----
-
-## 🚧 Current Focus
-
-> Transitioning from **"building projects"** → **"building products people actually use"**
-
-Right now I'm heads down on **Trim** — a platform connecting brands with creators.
-Thinking product. Thinking scale. Thinking users.
-
----
 
 ## 📫 Connect With Me
 
