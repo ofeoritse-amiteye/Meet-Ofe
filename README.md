@@ -89,8 +89,6 @@ Every project I touch is built with deployment, usability, and real users in min
 
 <div align="center">
 
-![Amiteye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ofeoritse-amiteye&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ofeoritse-amiteye&&theme=tokyonight&hide_border=true)
 
 </div>
