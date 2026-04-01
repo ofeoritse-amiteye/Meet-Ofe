@@ -27,7 +27,7 @@ Every project I touch is built with deployment, usability, and real users in min
 | 🎓 **CampusFlow** | Student-focused platform with maps, scheduling & productivity tools |
 | 🏥 **MediCore** | Hospital management system for operations & patient records |
 | 🌐 **Client & Personal Sites** | Responsive, production-ready web applications |
-| 💸 **Silia** *(in progress)* | Fintech app built for real financial access and experience |
+| 💸 **Cilia** *(in progress)* | Fintech app built for real financial access and experience |
 | 🚀 **Trim** *(in progress)* | Platform connecting brands with creators |
 | 🏠 **Paradiso** *(in progress)* | Real estate platform simplifying the process of buying and renting property |
 
