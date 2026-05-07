@@ -1,12 +1,12 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+👋🏾+I'm+Amiteye+Ofeoritse;Frontend+Engineer+%7C+Full-Stack+Systems;I+build+products+that+actually+ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+👋🏾+I'm+Amiteye+Ofeoritse;Frontend+Engineer+%7C+Full-Stack+Systems;Building+real-world+products+that+ship" />
 </div>
 
 <br/>
 
 <div align="center">
-  <em>"From UI to infrastructure — I build systems end-to-end."</em>
+  <em>"From UI to infrastructure, I build systems end-to-end."</em>
 </div>
 
 ---
@@ -15,13 +15,16 @@
 
 I'm **Amiteye Ofeoritse**, a frontend-focused full-stack engineer with 4+ years of experience building **production-grade applications** across web, mobile, and browser platforms.
 
-I specialize in building **real systems**, not demos — including:
-- Secure messaging platforms (E2E encryption)
-- Fintech systems (wallets, payments, webhooks)
-- Real-time applications (SSE, WebSockets)
-- AI-powered tools
+I specialize in building **production-grade systems** : handling real users, real payments, real-time updates, and real-world failures.
+
+I actively work with:
+- Observability (Sentry, PostHog)
+- Edge & performance (Cloudflare)
+- Real-time systems (SSE, WebSockets, Pusher)
+- Payment infrastructure (Paystack)
 
 I’m comfortable owning features **from architecture → development → deployment**.
+I don't just build features, I design systems that handle failure, scale, and real user behavior.
 
 ---
 
@@ -86,7 +89,19 @@ Anthropic Claude API · Prompt Engineering · OAuth integrations
 **Tools**
 Git · Vercel · Postman · Expo · VS Code
 
+**Infra, Monitoring & Realtime**
+
+Cloudflare · Pusher · Sentry · PostHog · Server-Sent Events · WebSockets
+
 ---
+
+## ⚙️ Production & Infrastructure
+
+- ☁️ Cloudflare (CDN, caching, edge performance)
+- 📊 PostHog (product analytics & user behavior tracking)
+- 🚨 Sentry (error monitoring & debugging in production)
+- 📡 Pusher (real-time events & websocket infrastructure)
+- ⚡ Vercel (deployment, edge functions)
 
 ## 🧠 What I Focus On
 
