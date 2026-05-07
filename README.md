@@ -1,87 +1,99 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%F0%9F%BE+I'm+Amiteye+Ofeoritse;Frontend+Dev+%7C+Full-Stack+Capable;Building+products+people+actually+use." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+👋🏾+I'm+Amiteye+Ofeoritse;Frontend+Engineer+%7C+Full-Stack+Systems;I+build+products+that+actually+ship." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <em>"I don't just write code, I build systems that ship."</em>
+  <em>"From UI to infrastructure — I build systems end-to-end."</em>
 </div>
 
 ---
 
 ## 👨🏾‍💻 About Me
 
-Hi, I'm **Amiteye Ofeoritse**, a frontend-leaning software developer with full-stack capability.
+I'm **Amiteye Ofeoritse**, a frontend-focused full-stack engineer with 4+ years of experience building **production-grade applications** across web, mobile, and browser platforms.
 
-I focus on building **real, functional systems** with clean user experiences, not just demo projects.
-Every project I touch is built with deployment, usability, and real users in mind.
+I specialize in building **real systems**, not demos — including:
+- Secure messaging platforms (E2E encryption)
+- Fintech systems (wallets, payments, webhooks)
+- Real-time applications (SSE, WebSockets)
+- AI-powered tools
+
+I’m comfortable owning features **from architecture → development → deployment**.
 
 ---
 
-## 🏗️ What I've Built
+## 🚀 Key Projects
 
-| Project | Description |
-|---|---|
-| 🎓 **CampusFlow** | Student-focused platform with maps, scheduling & productivity tools |
-| 🏥 **MediCore** | Hospital management system for operations & patient records |
-| 🌐 **Client & Personal Sites** | Responsive, production-ready web applications |
-| 💸 **Cilia** *(in progress)* | Fintech app built for real financial access and experience |
-| 🚀 **Trim** *(in progress)* | Platform connecting brands with creators |
-| 🏠 **Paradiso** *(in progress)* | Real estate platform simplifying the process of buying and renting property |
+### 🧠 Glance — AI Browser Extension
+- Built with **Chrome Extension APIs (Manifest V3)**
+- Integrated **Anthropic Claude API** for real-time page summarization
+- Designed service-worker-based architecture with message passing & state handling
+
+---
+
+### 🔐 Whisper — Secure Messaging Platform
+- Implemented **true end-to-end encryption using Web Crypto API**
+- Built encrypted offline-first message storage using **IndexedDB**
+- Used **JWT auth + Axios interceptors** for secure communication
+
+---
+
+### 💸 Creator Marketplace (Fintech System)
+- Built with **Next.js, MongoDB, Prisma, Paystack**
+- Designed a **wallet system with deposit, withdrawal & payout flows**
+- Implemented:
+  - Payment webhooks (Paystack)
+  - Rollback mechanisms for failed transactions
+  - OTP + hashed PIN security
+- Real-time updates via **Server-Sent Events (SSE)**
+
+---
+
+### 🏀 Fantasy Sports Platform
+- Real-time match scoring & matchmaking system
+- Regional & global leaderboard architecture
+- Built with **React, Node.js, Firebase**
+
+---
+
+### 📱 Student Assistant App
+- Cross-platform mobile app (React Native + Firebase)
+- 10+ features: timetable, navigation, reminders, etc.
+- Offline-first + real-time sync
 
 ---
 
 ## ⚡ Tech Stack
 
 **Frontend**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+React · Next.js · TypeScript · Tailwind CSS · Radix UI · React Native
 
 **Backend**
+Node.js · Django · REST APIs · WebSockets · SSE · Prisma
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Data & State**
+MongoDB · Firebase · MySQL · IndexedDB · Zustand · TanStack Query
 
-**Mobile**
+**Security & Payments**
+JWT · bcrypt · Web Crypto API · Paystack · OTP flows
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+**AI & Integrations**
+Anthropic Claude API · Prompt Engineering · OAuth integrations
 
-**Database & Backend Services**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+**Tools**
+Git · Vercel · Postman · Expo · VS Code
 
 ---
 
-## 🎯 What I Care About
+## 🧠 What I Focus On
 
-- 🎨 Clean, professional UI/UX that feels intentional
-- 🌍 Building for real-world use, not just tutorials
-- ⚙️ Performance, responsiveness, and scalability
-- 💡 Turning ideas into usable, deployable products
+- Building **production-ready systems**, not prototypes
+- Writing **secure, scalable, and maintainable code**
+- Designing **clean UX with real engineering depth behind it**
+- Choosing the **right tool for the problem**, not trends
 
 ---
 
@@ -92,6 +104,8 @@ Every project I touch is built with deployment, usability, and real users in min
 ![GitHub Streak](https://streak-stats.demolab.com?user=ofeoritse-amiteye&&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
 
 ## 📫 Connect With Me
 
