@@ -1,6 +1,5 @@
 <!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+👋🏾+I'm+Amiteye+Ofeoritse;Frontend+Engineer+%7C+Full-Stack+Systems;Building+real-world+products+that+ship" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+👋🏾+I'm+Amiteye+Ofeoritse;Frontend+Engineer+%7C+Full-Stack+Systems;Building+real-world+products+that+ship" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -59,14 +58,6 @@ I don't just build features, I design systems that handle failure, scale, and re
 - Real-time match scoring & matchmaking system
 - Regional & global leaderboard architecture
 - Built with **React, Node.js, Firebase**
-
----
-
-### 📱 Student Assistant App
-- Cross-platform mobile app (React Native + Firebase)
-- 10+ features: timetable, navigation, reminders, etc.
-- Offline-first + real-time sync
-
 ---
 
 ## ⚡ Tech Stack
