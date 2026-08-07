@@ -44,7 +44,7 @@ I don't just build features, I design systems that handle failure, scale, and re
 
 ---
 
-### 💸 Creator Marketplace (Fintech System)
+### 💸 Trim
 - Built with **Next.js, MongoDB, Prisma, Paystack**
 - Designed a **wallet system with deposit, withdrawal & payout flows**
 - Implemented:
